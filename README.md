@@ -7,7 +7,7 @@ My approach consists of two models - A lane detection model and a neural network
 
 The primary focus of development for now is the Neural Network model.
 
-**v0.2** - Nine class labels (w, s, a, d, wa, wd, sa, sd, no key). Here, the Convolutional Neural Network (CNN) that is being used to train the neural network is an expanded version of AlexNet called alexnetv2. It is fed with grayscale input frames of size 160x120.
+**v0.2** - Nine class labels (w, s, a, d, wa, wd, sa, sd, no key). Here, the Convolutional Neural Network (CNN) that is being used to train the neural network is an expanded version of AlexNet. It is fed with grayscale input frames of size 160x120.
 
 **v0.1** - Three class labels (w, a, d). Here, a standard AlexNet is used and it is given grayscale input images of size 80x60.
 
